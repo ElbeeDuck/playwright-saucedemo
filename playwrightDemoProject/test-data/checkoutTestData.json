@@ -1,0 +1,12 @@
+{
+    "firstProductName": "Sauce Labs Backpack",
+    "secondProductName": "Sauce Labs Bike Light",
+    "firstName": "test",
+    "lastname": "test",
+    "postcode": "ba1 1rr",
+    "emptyFirstName": "",
+    "emptyLastname": "",
+    "emptyPostcode": "",
+    "firstProductPrice": "$29.99",
+    "secondProductPrice": "$9.99"
+}

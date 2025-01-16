@@ -1,0 +1,21 @@
+{
+    "firstProductName": "Sauce Labs Onesie",
+    "secondProductName": "Sauce Labs Fleece Jacket",
+        "products": [
+            {
+                "name": "Sauce Labs Onesie",
+                "price": "$7.99",
+                "hasImage": true
+            },
+            {
+                "name": "Sauce Labs Fleece Jacket",
+                "price": "$49.99",
+                "hasImage": true
+            },
+            {
+                "name": "Sauce Labs Backpack",
+                "price": "$29.99",
+                "hasImage": true
+            }
+        ]
+}
